@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(97, 0, 90);
+    text-align: center;
+}
+
+h2 {
+    color: magenta;
+    outline-style: inset;
+}
+
+li {
+    margin-bottom: 10px;
+    color: rgb(13, 182, 239);
+}
+
+ol {
+    font-style: italic;
+    border-style: outset;
+}
+
+ul {
+    border-style: outset;
+}
+
+.lists {
+    width: 400px;
+    margin: auto;
+}
+
+img {
+    margin-left: 30px;
+    width: 350px;
+    height: 250px
+}
+
+#bestmovie {
+}
+

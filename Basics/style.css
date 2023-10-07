@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(121, 45, 1);
+}
+
+ul {
+    list-style: square;
+}
+
+ol {
+    list-style: lower-roman;
+}
+
+li {
+    
+}
