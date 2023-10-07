@@ -1,0 +1,35 @@
+body {
+    background-image: url("photos/earth_forest_4k_hd.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1 {
+    color: rgb(11, 245, 167);
+    background-color: #00453a;
+    text-align: center;
+    
+}
+
+p {
+    background-color: darkseagreen;
+    display: inline;
+}
+
+ul {
+    list-style: square;
+    color: white;
+}
+
+ol {
+    list-style: decimal-leading-zero;
+    color: white;
+    margin-left: 10px;
+}
+
+a {
+    color: aquamarine;
+    background-color: black;
+    margin-left: 5px;
+}
